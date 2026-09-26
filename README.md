@@ -1,0 +1,1 @@
+Building a website to display a few recipes, covering HTML basics learned in the odin project.
